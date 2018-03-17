@@ -2,10 +2,10 @@
 
 
 # Site settings
-title: SAFE AF Engineering
+title: S.A.F.E.
 description: |
   Proving that Dijkstra was wrong
-owner: SAFE AF Engineering # or company name
+owner: S.A.F.E. # or company name
 first_published: 2018  # if migrating another site, the year of your first publish
 email: info@safe-af.engineering
 baseurl: "" # the subpath of your site, e.g. /blog
