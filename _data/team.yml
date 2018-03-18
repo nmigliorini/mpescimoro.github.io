@@ -1,0 +1,26 @@
+- name: Swappage
+  image: team.jpg
+  title: The alpha and the omega
+  email: swappage@safe-af.engineering
+  
+- name: Ceres-C
+  image: team.jpg
+  title: Internship security dreamers executive
+  email: ceresc@safe-af.engineering
+  
+- name: MrMoDDom
+  image: team.jpg
+  title: Memory allocation wizard
+  email: mrmoddom@safe-af.engineering
+
+- name: Scammo
+  image: team.jpg
+  title: Baking fraud obliteration engineer
+  email: scammo@safe-af.engineering
+  
+- name: Nefdnb
+  image: team.jpg
+  title: Head of training and research dept.
+  email: nefdnb@safe-af.engineering
+  
+  

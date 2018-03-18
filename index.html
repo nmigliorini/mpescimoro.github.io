@@ -80,6 +80,24 @@ layout: landing
 						</div>
 					</section>
 
+<!-- Start Our team -->
+<div id="team" class="team"> 
+    <h2 class="section-title">Our Team</h2> 
+    <div id="team-carousel">
+    {% for member in site.data.team %}
+        <div class="expandable-box">
+            <div class="expandable-box-top">
+                <img src="{{ site.baseurl }}/images/{{ member.image }}" alt="{{ member.name }}">
+                <h4>{{ member.name }}</h4>
+                <h6>{{ member.title }}</h6>
+                <h8>{{ member.email }}</h8>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+<!-- End Our team -->
+
 				<!-- CTA -->
 					<section id="cta" class="wrapper style4">
 						<div class="inner">
